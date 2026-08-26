@@ -1,0 +1,11 @@
+IndustryID,Industry,RevenueMultiplier,AOVMultiplier
+1,E-commerce,1.15,1.1
+2,SaaS,1.12,1.15
+3,Retail,1.1,1.08
+4,Finance,1.08,1.12
+5,Education,1.05,1.05
+6,Healthcare,1.03,1.08
+7,Telecommunications,1.0,1.0
+8,Automotive,0.97,0.95
+9,Real Estate,0.95,0.9
+10,Travel,0.93,0.88

@@ -1,0 +1,7 @@
+CampaignTypeID,CampaignType,ExpectedConversionRate,FunnelStage
+1,Search,0.07,Conversion
+2,Retargeting,0.065,Conversion
+3,Video,0.06,Consideration
+4,Social,0.05,Awareness
+5,Email,0.04,Awareness
+6,Display,0.03,Awareness
