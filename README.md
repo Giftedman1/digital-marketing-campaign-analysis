@@ -1,2 +1,5 @@
 # digital-marketing-campaign-performance-analysis
-Statistical evaluation of 10,000 digital campaigns across 7 platforms using hypothesis testing (t-tests, ANOVA, chi-square) and regression analysis to identify ROI drivers. Found campaign type explains 65% of conversion variation, Google Ads delivers 206.5% ROI, and A/B testing achieves 24% conversion lift.
+Statistical analysis of **10,000 digital marketing campaigns across 7 platforms** using hypothesis testing and regression modeling to evaluate campaign performance, identify performance drivers, and support data-driven marketing investment decisions.
+
+**Data Scope:** 10,000 campaigns | 7 platforms | $614.8M total spend | $1.77B attributed revenue
+---
